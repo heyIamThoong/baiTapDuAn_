@@ -1,0 +1,15 @@
+.comment {
+    width: 500%;
+    height: 400px;
+    position: relative;
+    top: 100px;
+}
+form .input {
+    width: 200px;
+    height: 40px;border: 1px solid white;
+
+}
+.input:hover {
+    background-color: red;
+    color:whitesmoke;
+}
